@@ -1,0 +1,26 @@
+#myString{
+	height: 100px;
+	width: 100px;
+	/*background: red;*/
+}
+.test{
+	height: 100px;
+	width: 100px;
+	/*background: red;*/
+}
+.tableColor{
+	border: none;
+	/*background: red;*/
+}
+.cell{
+	height: 30px;
+	width: 30px;
+
+	/*background: rgb(128,0,0)*/
+}
+label{
+	margin-right: 40px
+}
+.input-text{
+	margin-left: 24px;
+}
